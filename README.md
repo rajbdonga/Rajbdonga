@@ -5,7 +5,7 @@
 
 <h6><hr/></h6>
 
-<img align="right" alt="coding" height="218" width="750" src="https://i.pinimg.com/originals/de/2e/30/de2e30ae755cfee42e24935cddad5c8f.jpg">
+<img align="right" alt="coding" height="218" width="500" src="https://i.pinimg.com/originals/de/2e/30/de2e30ae755cfee42e24935cddad5c8f.jpg">
 
 
 
