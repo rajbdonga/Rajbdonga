@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Raj Donga</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajbdonga&label=Profile%20views&color=0e75b6&style=flat" alt="rajbdonga" /> </p>
 
@@ -18,6 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajbdonga&show_icons=true&locale=en&layout=compact" alt="rajbdonga" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajbdonga&show_icons=true&locale=en" alt="rajbdonga" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajbdonga&" alt="rajbdonga" /></p>
+
+
+
