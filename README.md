@@ -5,7 +5,7 @@
 
 <h6><hr/></h6>
 
-<img align="right" alt="coding" height="160" width="600" src="https://i.pcmag.com/imagery/articles/05t8jSzsRSxXe0eVVtdiRx6-1.fit_lim.v1650011995.jpg">
+<img align="right" alt="coding" height="165" width="550" src="https://i.pcmag.com/imagery/articles/05t8jSzsRSxXe0eVVtdiRx6-1.fit_lim.v1650011995.jpg">
 
 
 
